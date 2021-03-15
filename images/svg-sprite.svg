@@ -1,0 +1,14 @@
+<svg aria-hidden="true"  style="display:none;" version="1.1" 
+     xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink"> 
+    <defs>
+        <!-- Next icon -->
+        <symbol id="icon-next" viewBox="0 0 13 18">
+            <path fill="none" stroke="#8585AC" stroke-width="3" d="M2 1l8 8-8 8"/>
+        </symbol>
+        <!-- Prev icon -->
+        <symbol id="icon-prev" viewBox="0 0 12 18">
+            <path fill="none" stroke="#8585AC" stroke-width="3" d="M11 1L3 9l8 8"/>
+        </symbol>
+    </defs> 
+</svg>
